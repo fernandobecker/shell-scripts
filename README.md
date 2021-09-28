@@ -1,2 +1,2 @@
 # shell-scripts
-Script em shell para monitoramento de processos.
+Script de utilidades.
